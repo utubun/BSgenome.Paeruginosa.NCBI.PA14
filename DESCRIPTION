@@ -1,0 +1,17 @@
+Package: BSgenome.Paeruginosa.NCBI.PA14
+Title: Full genome of Pseudomonas aeruginosa, str. UCBPP-PA14
+Description: Full genome sequence Pseudomonas aeruginosa, str. UCBPP-PA14
+Version: 1.0.0
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: R (>= 3.5.0), BSgenome (>= 1.66.3)
+Imports: BSgenome
+Suggests: 
+License: Artistic-2.0
+organism: Pseudomonas aeruginosa
+common_name: P. aeruginosa
+genome: ASM1462v1
+provider: NCBI
+release_date: 2006-10-06
+source_url: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/014/625/GCF_000014625.1_ASM1462v1/GCF_000014625.1_ASM1462v1_genomic.fna.gz
+biocViews: AnnotationData, Genetics, BSgenome, Pseudomonas_aeruginosa
