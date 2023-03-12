@@ -2,8 +2,8 @@ Package: BSgenome.Paeruginosa.NCBI.PA14
 Title: Full genome of Pseudomonas aeruginosa, str. UCBPP-PA14
 Description: Full genome sequence Pseudomonas aeruginosa, str. UCBPP-PA14
 Version: 1.0.0
-Author: Dmytro Strunin, <dmytro.strunin@gmail.com>
-Maintainer: Dmytro Strunin, <dmytro.strunin@gmail.com>
+Author: Dmytro Strunin <dmytro.strunin@gmail.com> [cre]
+Maintainer: Dmytro Strunin <dmytro.strunin@gmail.com>
 Depends: R (>= 3.5.0), BSgenome (>= 1.66.3)
 Imports: BSgenome
 Suggests: 
